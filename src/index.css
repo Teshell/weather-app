@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  height: 100%;
+  background-image: url("https://cdn.pixabay.com/photo/2022/11/14/10/49/mountains-7591326_1280.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: 'Open Sans', sans-serif;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

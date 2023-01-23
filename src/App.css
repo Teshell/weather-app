@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans&display=swap');
+
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.global-condition {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.weather-data {
+    font-family: 'Merriweather Sans', sans-serif;
+    color: aqua;
+}
